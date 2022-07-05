@@ -1,0 +1,35 @@
+body{
+  background-color: #82DBD8;
+  margin: none;
+  text-align: center;
+}
+.container {
+  width: 70%;
+  margin: auto;
+}
+.dice {
+  display: inline-block;
+}
+h1{
+  font-size: 80px;
+  color: #F73D93;
+  margin: none;
+  font-family: 'Roboto', sans-serif;
+}
+h2{
+  color: #413F42;
+  position: relative;
+  bottom:40px;
+  font-family: 'Kalam', cursive;
+}
+p{
+  font-size: 2rem;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  top:40px;
+  color: #06113C;
+}
+img{
+  width:80%;
+}
